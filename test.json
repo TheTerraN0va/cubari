@@ -1,0 +1,19 @@
+{
+  "title": "test",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1763397022",
+      "groups": {
+        "": [
+          "https://drive.usercontent.google.com/download?id=1Pg5zyDVvfWJcpgWtGaYU4t55EdSIQMX9"
+        ]
+      }
+    }
+  }
+}
